@@ -26,4 +26,4 @@ npm i
 npm run dev **To start the frontend
 npm start **To start the server
 
--> All the envoirnment variables are already present inside the config.env which is already present in the Server directory.
+-> To use the same perfume data as mine I have already included the perfume-data.json file in the repository just import this file into the database using mongoDB compass.
