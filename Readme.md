@@ -2,7 +2,7 @@ Steps to run the project:-
 
 1. Create a database on the mongoDB Atlas and create a file by the name of config.env in the server directory.
 
-2. Paste the following 4 things in your config.env file
+2. Paste the following 4 things in your config.env file in server directory.
 
 PORT = 3000
 DATABASE_USERNAME = <your-database-username-from-atlas>
