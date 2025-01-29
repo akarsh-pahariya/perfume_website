@@ -1,0 +1,283 @@
+[
+  {
+    "name": "Chanel No. 5",
+    "description": "Chanel No. 5, a legendary fragrance, embodies timeless elegance and sophistication. Its iconic blend of aldehydes, rose, and jasmine creates a captivating aura that is both alluring and enduring. A symbol of luxury and refinement, Chanel No. 5 continues to captivate generations with its classic and unforgettable scent.",
+    "price": 125,
+    "images": ["chanel-no-5-1.jpg", "chanel-no-5-2.jpg", "chanel-no-5-3.jpg"],
+    "imageCover": "chanel-no-5-cover.jpg",
+    "brand": "Chanel",
+    "size": ["30ml", "50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Dior Sauvage",
+    "description": "Dior Sauvage is a bold and masculine fragrance that captures the spirit of the wild. A vibrant blend of bergamot, pepper, and ambroxan creates a fresh and invigorating scent that is both powerful and alluring. Its distinctive aroma evokes a sense of freedom and adventure, making it a perfect choice for the modern man who embraces his inner strength and individuality.",
+    "price": 95,
+    "images": ["dior-sauvage-1.jpg", "dior-sauvage-2.jpg"],
+    "imageCover": "dior-sauvage-cover.jpg",
+    "brand": "Dior",
+    "size": ["60ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Gucci Bloom",
+    "description": "Gucci Bloom is a vibrant and feminine fragrance that celebrates the beauty of nature. A captivating blend of jasmine, tuberose, and honeysuckle creates a lush and intoxicating floral bouquet. Its playful and romantic aroma evokes a sense of joy and optimism, making it the perfect scent for the modern woman who embraces her femininity and celebrates life's precious moments.",
+    "price": 110,
+    "images": ["gucci-bloom-1.jpg", "gucci-bloom-2.jpg", "gucci-bloom-3.jpg"],
+    "imageCover": "gucci-bloom-cover.jpg",
+    "brand": "Gucci",
+    "size": ["30ml", "50ml", "75ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Yves Saint Laurent Black Opium",
+    "description": "Yves Saint Laurent Black Opium is a seductive and intense fragrance that captures the spirit of the night. A captivating blend of coffee, white flowers, and vanilla creates an addictive and alluring aroma that is both mysterious and mesmerizing. Its bold and confident scent is perfect for the woman who embraces her inner strength and dares to be different.",
+    "price": 88,
+    "images": ["ysl-black-opium-1.jpg", "ysl-black-opium-2.jpg"],
+    "imageCover": "ysl-black-opium-cover.jpg",
+    "brand": "Yves Saint Laurent",
+    "size": ["50ml", "90ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Tom Ford Oud Wood",
+    "description": "Tom Ford Oud Wood is a luxurious and opulent fragrance that exudes sophistication and refinement. A captivating blend of oud wood, sandalwood, and rose creates a rich and sensual aroma that is both intoxicating and unforgettable. Its opulent and enigmatic scent is perfect for the discerning individual who appreciates the finer things in life and desires a fragrance that is both unique and unforgettable.",
+    "price": 275,
+    "images": ["tom-ford-oud-wood-1.jpg"],
+    "imageCover": "tom-ford-oud-wood-cover.jpg",
+    "brand": "Tom Ford",
+    "size": ["50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Lancôme La Vie Est Belle",
+    "description": "Lancôme La Vie Est Belle is a sweet and gourmand fragrance that celebrates the joy of life. A captivating blend of iris, praline, and vanilla creates a delicious and inviting aroma that is both comforting and uplifting. Its playful and optimistic scent is perfect for the woman who embraces life's sweetness and finds beauty in everyday moments.",
+    "price": 92,
+    "images": [
+      "lancome-la-vie-est-belle-1.jpg",
+      "lancome-la-vie-est-belle-2.jpg"
+    ],
+    "imageCover": "lancome-la-vie-est-belle-cover.jpg",
+    "brand": "Lancôme",
+    "size": ["30ml", "50ml", "75ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Paco Rabanne 1 Million",
+    "description": "Paco Rabanne 1 Million is a bold and masculine fragrance that exudes confidence and charisma. A captivating blend of blood orange, leather, and cinnamon creates a seductive and alluring aroma that is both powerful and unforgettable. Its distinctive and unforgettable scent is perfect for the man who embraces his ambition and desires to leave a lasting impression.",
+    "price": 85,
+    "images": ["paco-rabanne-1-million-1.jpg", "paco-rabanne-1-million-2.jpg"],
+    "imageCover": "paco-rabanne-1-million-cover.jpg",
+    "brand": "Paco Rabanne",
+    "size": ["50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Givenchy Gentleman Only",
+    "description": "Givenchy Gentleman Only is a refined and sophisticated fragrance that embodies modern masculinity. A captivating blend of bergamot, iris, and patchouli creates a fresh and elegant aroma that is both timeless and contemporary. Its understated elegance and refined character make it the perfect choice for the discerning gentleman who appreciates classic style and understated luxury.",
+    "price": 105,
+    "images": [
+      "givenchy-gentleman-only-1.jpg",
+      "givenchy-gentleman-only-2.jpg"
+    ],
+    "imageCover": "givenchy-gentleman-only-cover.jpg",
+    "brand": "Givenchy",
+    "size": ["50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Hermès Terre d'Hermès",
+    "description": "Hermès Terre d'Hermès is an earthy and invigorating fragrance for men that evokes the power and sensuality of the earth. A captivating blend of mineral notes, orange, and patchouli creates a unique and unforgettable scent that is both grounding and uplifting. Its distinctive and sophisticated aroma is perfect for the man who appreciates the finer things in life and seeks a fragrance that reflects his individuality.",
+    "price": 115,
+    "images": ["hermes-terre-d-hermes-1.jpg", "hermes-terre-d-hermes-2.jpg"],
+    "imageCover": "hermes-terre-d-hermes-cover.jpg",
+    "brand": "Hermès",
+    "size": ["50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Valentino Donna Born In Roma",
+    "description": "Valentino Donna Born In Roma is a modern and vibrant fragrance for women that captures the spirit of the Eternal City. A captivating blend of rose, vanilla, and woody notes creates a seductive and alluring aroma that is both sophisticated and playful. Its distinctive and unforgettable scent is perfect for the modern woman who embraces her individuality and dares to be different.",
+    "price": 80,
+    "images": [
+      "valentino-donna-born-in-roma-1.jpg",
+      "valentino-donna-born-in-roma-2.jpg"
+    ],
+    "imageCover": "valentino-donna-born-in-roma-cover.jpg",
+    "brand": "Valentino",
+    "size": ["30ml", "50ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Giorgio Armani Acqua di Giò",
+    "description": "Giorgio Armani Acqua di Giò is a fresh and invigorating fragrance for men that evokes the spirit of the Mediterranean sea. A captivating blend of citrus, aquatic notes, and rosemary creates a clean and invigorating scent that is both refreshing and timeless. Its distinctive and unforgettable aroma is perfect for the man who embraces a relaxed and sophisticated lifestyle.",
+    "price": 75,
+    "images": [
+      "giorgio-armani-acqua-di-gio-1.jpg",
+      "giorgio-armani-acqua-di-gio-2.jpg"
+    ],
+    "imageCover": "giorgio-armani-acqua-di-gio-cover.jpg",
+    "brand": "Giorgio Armani",
+    "size": ["40ml", "75ml", "125ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Versace Eros",
+    "description": "Versace Eros is a seductive and intense fragrance for men that captures the spirit of Greek mythology. A captivating blend of mint, lemon, and tonka bean creates a powerful and alluring aroma that is both seductive and unforgettable. Its distinctive and unforgettable scent is perfect for the man who embraces his sensuality and desires to leave a lasting impression.",
+    "price": 90,
+    "images": ["versace-eros-1.jpg", "versace-eros-2.jpg"],
+    "imageCover": "versace-eros-cover.jpg",
+    "brand": "Versace",
+    "size": ["50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Calvin Klein CK One",
+    "description": "Calvin Klein CK One is a fresh and unisex fragrance that embodies the spirit of individuality and freedom. A captivating blend of citrus, pineapple, and green tea creates a clean and invigorating scent that is both refreshing and timeless. Its distinctive and unforgettable aroma is perfect for those who embrace a free-spirited and unconventional lifestyle.",
+    "price": 65,
+    "images": ["calvin-klein-ck-one-1.jpg", "calvin-klein-ck-one-2.jpg"],
+    "imageCover": "calvin-klein-ck-one-cover.jpg",
+    "brand": "Calvin Klein",
+    "size": ["100ml", "200ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Jean Paul Gaultier Le Male",
+    "description": "Jean Paul Gaultier Le Male is a bold and masculine fragrance that challenges traditional notions of masculinity. A captivating blend of mint, lavender, and vanilla creates a unique and unforgettable scent that is both playful and seductive. Its distinctive and unconventional aroma is perfect for the man who dares to be different and embraces his individuality.",
+    "price": 82,
+    "images": [
+      "jean-paul-gaultier-le-male-1.jpg",
+      "jean-paul-gaultier-le-male-2.jpg"
+    ],
+    "imageCover": "jean-paul-gaultier-le-male-cover.jpg",
+    "brand": "Jean Paul Gaultier",
+    "size": ["75ml", "125ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Burberry Her",
+    "description": "Burberry Her is a vibrant and feminine fragrance that captures the spirit of modern London. A captivating blend of bluebell, raspberry, and amber creates a playful and seductive aroma that is both fresh and alluring. Its distinctive and unforgettable scent is perfect for the woman who embraces her individuality and lives life to the fullest.",
+    "price": 78,
+    "images": ["burberry-her-1.jpg", "burberry-her-2.jpg"],
+    "imageCover": "burberry-her-cover.jpg",
+    "brand": "Burberry",
+    "size": ["30ml", "50ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Lacoste Pour Homme",
+    "description": "Lacoste Pour Homme is a classic and timeless fragrance for men that embodies the spirit of effortless elegance and sporty sophistication. A captivating blend of citrus, green notes, and sandalwood creates a fresh and invigorating scent that is both timeless and versatile. Its distinctive and unforgettable aroma is perfect for the modern man who appreciates classic style and a touch of effortless cool.",
+    "price": 60,
+    "images": ["lacoste-pour-homme-1.jpg", "lacoste-pour-homme-2.jpg"],
+    "imageCover": "lacoste-pour-homme-cover.jpg",
+    "brand": "Lacoste",
+    "size": ["50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Bvlgari Aqva Pour Homme",
+    "description": "Bvlgari Aqva Pour Homme is a fresh and invigorating fragrance for men that evokes the power and serenity of the sea. A captivating blend of aquatic notes, grapefruit, and posidonia oceanica creates a clean and invigorating scent that is both refreshing and energizing. Its distinctive and unforgettable aroma is perfect for the man who embraces a vibrant and active lifestyle.",
+    "price": 85,
+    "images": [
+      "bvlgari-aqva-pour-homme-1.jpg",
+      "bvlgari-aqva-pour-homme-2.jpg"
+    ],
+    "imageCover": "bvlgari-aqva-pour-homme-cover.jpg",
+    "brand": "Bvlgari",
+    "size": ["50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Carolina Herrera Good Girl",
+    "description": "Carolina Herrera Good Girl is a seductive and alluring fragrance for women that embodies the duality of the modern woman. A captivating blend of jasmine, tonka bean, and coffee creates a unique and unforgettable scent that is both innocent and provocative. Its distinctive and unforgettable aroma is perfect for the woman who embraces her inner strength and dares to be different.",
+    "price": 100,
+    "images": [
+      "carolina-herrera-good-girl-1.jpg",
+      "carolina-herrera-good-girl-2.jpg"
+    ],
+    "imageCover": "carolina-herrera-good-girl-cover.jpg",
+    "brand": "Carolina Herrera",
+    "size": ["40ml", "80ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Chloe Nomade",
+    "description": "Chloe Nomade is a free-spirited and adventurous fragrance for women that celebrates the joy of exploration. A captivating blend of freesia, mirabelle plum, and oakmoss creates a fresh and invigorating scent that is both elegant and bohemian. Its distinctive and unforgettable aroma is perfect for the woman who embraces her wanderlust and seeks adventure in every moment.",
+    "price": 95,
+    "images": ["chloe-nomade-1.jpg", "chloe-nomade-2.jpg"],
+    "imageCover": "chloe-nomade-cover.jpg",
+    "brand": "Chloe",
+    "size": ["30ml", "50ml", "75ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  },
+  {
+    "name": "Viktor&Rolf Flowerbomb",
+    "description": "Viktor&Rolf Flowerbomb is a vibrant and opulent fragrance for women that explodes with floral exuberance. A captivating blend of patchouli, rose, and tea rose creates a lush and intoxicating bouquet that is both feminine and powerful. Its distinctive and unforgettable aroma is perfect for the woman who embraces her sensuality and desires to leave a lasting impression.",
+    "price": 118,
+    "images": ["viktor-rolf-flowerbomb-1.jpg", "viktor-rolf-flowerbomb-2.jpg"],
+    "imageCover": "viktor-rolf-flowerbomb-cover.jpg",
+    "brand": "Viktor&Rolf",
+    "size": ["30ml", "50ml", "100ml"],
+    "rating": 0,
+    "reviews": [],
+    "createdAt": "2024-07-05T12:51:31.000Z",
+    "updatedAt": "2024-07-05T12:51:31.000Z"
+  }
+]
